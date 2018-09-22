@@ -10,4 +10,10 @@ echo 'hi,git';
 echo '你好，git';
 echo 'home,你好';
 
+<<<<<<< HEAD
 echo 'home,hello';
+=======
+
+echo 'home,hi';
+echo 'home,hi123';
+>>>>>>> home
