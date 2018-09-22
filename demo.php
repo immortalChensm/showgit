@@ -9,3 +9,5 @@
 echo 'hi,git';
 echo '你好，git';
 echo 'home,你好';
+
+echo 'home,hello';
