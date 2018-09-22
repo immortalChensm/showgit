@@ -8,3 +8,4 @@
 
 echo 'hi,git';
 echo '你好，git';
+echo 'bbbb';
