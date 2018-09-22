@@ -23,5 +23,5 @@ echo 'home,hi123';
 
 
 
-echo 'last home';
+echo '最后 home';
 
